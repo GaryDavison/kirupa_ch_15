@@ -1,0 +1,23 @@
+{
+  "name": "mytotallyawesomeproject",
+  "version": "1.0.0",
+  "description": "Kirupa Chinnathambi, Learning React, Ch. 15 code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryDavison/kirupa_ch_15.git"
+  },
+  "author": "GCD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaryDavison/kirupa_ch_15/issues"
+  },
+  "homepage": "https://github.com/GaryDavison/kirupa_ch_15#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
